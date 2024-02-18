@@ -18,8 +18,8 @@
 // }
 
 function play(){
-  hideElementByID('home-screen')
   showElementById('playground-section')
+  hideElementByID('home-screen')
 }
 
 
